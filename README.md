@@ -1,2 +1,2 @@
 # Api Spring Aprendizado
-## Conteúdo criadpo para ensinar o básico sobre Java Spring Boot 
+## Conteúdo criado para ensinar o básico sobre Java Spring Boot 
